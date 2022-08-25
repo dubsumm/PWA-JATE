@@ -68,4 +68,4 @@ Best way to test this is:
 
 ______________________________________________
 
-For further questions I can be reached at w.b.summerli@gmail.com
+For further questions I can be reached at w.b.summerlin@gmail.com
